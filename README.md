@@ -185,3 +185,10 @@ This project demonstrates an end-to-end pipeline to predict F1 Top 10 finishers 
 
 Note: The main analysis notebook (`F1_Prediction_for_TOP10_2024.ipynb`) includes commentary in Korean.  
 For English context, please refer to this README (project goal, data, features, validation, and results).
+
+### Data Source
+
+The raw timing and classification data (race results, lap times, pit stops, qualifying, etc.) comes from publicly available Formula 1 historical datasets (e.g. Kaggle "Formula 1 World Championship" data).
+
+This repository includes a local copy of the CSV files only for reproducibility.  
+All original credits for the underlying race timing and results data belong to their respective providers / recorders.
