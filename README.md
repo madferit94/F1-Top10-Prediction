@@ -182,3 +182,6 @@ My core contribution and focus were on:
 
 **In summary:**  
 This project demonstrates an end-to-end pipeline to predict F1 Top 10 finishers using historical performance, qualifying data, pit stops, sprint results, and rolling form. The model generalizes well to a future season (2024) and produces realistic per-race Top 10 leaderboards with confidence scores.
+
+Note: The main analysis notebook (`F1_Prediction_for_TOP10_2024.ipynb`) includes commentary in Korean.  
+For English context, please refer to this README (project goal, data, features, validation, and results).
